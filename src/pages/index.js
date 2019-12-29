@@ -5,6 +5,18 @@ import Gallery from '../components/Gallery';
 
 const img_set = [
   {
+    src: require('../assets/images/fulls/A_fish_which_remain_eye_only.jpg'),
+    thumbnail: require('../assets/images/fulls/A_fish_which_remain_eye_only.jpg'),
+    title: 'A Fish Which Remain Eye Only',
+    desc: 'A Fish Which Remain Eye Only - Dae Sang Eom',
+  },
+  {
+    src: require('../assets/images/fulls/Soul-Structure22.jpg'),
+    thumbnail: require('../assets/images/fulls/Soul-Structure22.jpg'),
+    title: 'Soul Structure',
+    desc: 'Soul Structure - Dae Sang Eom',
+  },
+  {
     src: require('../assets/images/fulls/01.jpg'),
     thumbnail: require('../assets/images/thumbs/01.jpg'),
     title: 'Great Sky',
