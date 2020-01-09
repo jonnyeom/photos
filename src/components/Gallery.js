@@ -88,6 +88,7 @@ class Gallery extends Component {
       <>
         {this.renderGallery()}
         <Lightbox
+          backdropClosesModal={true}
           currentImage={this.state.currentImage}
           images={this.props.images.map(img => {
             img.caption = `${img.title} - ${img.desc}`;

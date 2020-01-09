@@ -6,15 +6,15 @@ import Gallery from '../components/Gallery';
 const img_set = [
   {
     src: require('../assets/images/fulls/A_fish_which_remain_eye_only.jpg'),
-    thumbnail: require('../assets/images/fulls/A_fish_which_remain_eye_only.jpg'),
+    thumbnail: require('../assets/images/thumbs/A_fish_which_remain_eye_only.jpg'),
     title: 'A Fish Which Remain Eye Only',
-    desc: ' - Dae Sang Eom | 엄 대 상',
+    desc: 'Dae Sang Eom | 엄 대 상',
   },
   {
     src: require('../assets/images/fulls/Soul-Structure22.jpg'),
-    thumbnail: require('../assets/images/fulls/Soul-Structure22.jpg'),
+    thumbnail: require('../assets/images/thumbs/Soul-Structure22.jpg'),
     title: 'Soul Structure',
-    desc: ' - Dae Sang Eom | 엄 대 상',
+    desc: 'Dae Sang Eom | 엄 대 상',
   },
   {
     src: require('../assets/images/fulls/01.jpg'),
